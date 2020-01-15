@@ -1,0 +1,1 @@
+C:\Users\Fawad\ Ahmad\Desktop\Stuff\PIAIC\projects\main_lib\target\debug\libmain_lib.rlib: C:\Users\Fawad\ Ahmad\Desktop\Stuff\PIAIC\projects\main_lib\src\lib.rs C:\Users\Fawad\ Ahmad\Desktop\Stuff\PIAIC\projects\table\src\lib.rs
